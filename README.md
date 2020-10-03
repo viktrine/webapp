@@ -1,12 +1,12 @@
 Docker Fundamentals WebApp
 ==========================
 
-The Docker Fundamentals repository contains the example Hello World Python WebApp
+Just a Hello World example here. Will be using this for Docker training stuff
 
 ## License
 
-Apache 2.0
+Kipng'etich Victor Lang'at
 
 ## Copyright
 
-Copyright Docker Inc Education Team 2014 <education@docker.com>
+Kipng'etich Victor Lang'at <viclan29@gmail.com>
