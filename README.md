@@ -7,10 +7,6 @@ Just a Hello World example here. Will be using this for Docker training stuff
 
 Kipng'etich Victor Lang'at
 
-## Update
-
-To test the Dicker - Jenkins update hooks
-
 ## Copyright
 
 Kipng'etich Victor Lang'at <viclan29@gmail.com>
