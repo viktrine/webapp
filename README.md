@@ -9,7 +9,7 @@ Kipng'etich Victor Lang'at
 
 ## Update
 
-To test the Dicker - Jenkins update
+To test the Dicker - Jenkins update hooks
 
 ## Copyright
 
